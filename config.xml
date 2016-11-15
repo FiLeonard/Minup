@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<config>
+	<Setting width="640"/>
+	<Setting height="480"/>
+	<Setting bpp="16"/>
+	<Setting player="2"/>
+	<Setting maxfps="60"/>
+</config>
